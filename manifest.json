@@ -1,13 +1,12 @@
 {
-  "name": "EduGest",
+  "name": "EduGest - Gestão de Reforço Escolar",
   "short_name": "EduGest",
-  "description": "Sistema de Gestão de Aulas Particulares",
+  "description": "Sistema completo de gestão para professores particulares e reforço escolar",
   "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait-primary",
   "background_color": "#0d1f33",
   "theme_color": "#1a56a0",
-  "lang": "pt-BR",
+  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icons/icon-192.png",
@@ -21,5 +20,7 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "pt-BR"
 }
